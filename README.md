@@ -12,7 +12,7 @@ In case you may have attended one of Python workshops or have stumbled onto this
 ## Contact
 
 - Please feel free to email your questions, doubts, feedback or comments at [gisdata@umd.edu](mailto:gisdata@umd.edu)
-- You can also request a specific data consulation for your research project by filling our [this form](https://docs.google.com/forms/d/e/1FAIpQLSfkumtTIIvuvo7iQqKdQkoM04ukmIxp_duq2hvNcX75am67sw/viewform). Once submitted, someone from the team will reach out to you. Please send a note on above email in case of time sensitive request.
+- You can also request a specific data consulation for your research project by filling our [this form](https://docs.google.com/forms/d/e/1FAIpQLSfkumtTIIvuvo7iQqKdQkoM04ukmIxp_duq2hvNcX75am67sw/viewform). Once submitted, someone from the team will reach out to you. Please send a note on above email in case of time sensitive request.  
 
 ## About Us
 
