@@ -3,7 +3,13 @@
 
 ## Repository
 
-Please find the slides for Python Introduction workshop following [this link](https://docs.google.com/presentation/d/1hGHkuhCtP_j8sbeUyGnNPVWFSX61jftsG9xWvb-aZTg/edit?usp=sharing).
+Please find the link for workshop material below:
+1. Python Introduction Workshop: 
+    - [Slides](https://docs.google.com/presentation/d/1hGHkuhCtP_j8sbeUyGnNPVWFSX61jftsG9xWvb-aZTg/edit?usp=sharing) 
+    - [Jupyter Notebook](https://github.com/UMD-GIS-Data-Lab/Python-Workshops/blob/main/1.%20Python%20Basics.ipynb)
+1. Data Wrangling with Python: 
+    - [Slides](https://docs.google.com/presentation/d/1Pnd2yt9xcLDHAa79r9tm6WsksNeMUwPqIvrAdDsmx0w/edit?usp=sharing)
+    - [Jupyter Notebook](https://github.com/UMD-GIS-Data-Lab/Python-Workshops/blob/main/2.b%20Data%Wrangling%20with%20Pandas)
 
 This repository contains the codes, handouts, and slides for pedagogical purposes related to Python Programming language.
 
@@ -20,5 +26,5 @@ This repository is created and maintained by [GIS and Data Labs](https://www.lib
 
 ### Happy Learning!
 
-Last Updated: 2/21/2023 by Abhimanyu Hans
+Last Updated: 5/03/2023 by Abhimanyu Hans
 
