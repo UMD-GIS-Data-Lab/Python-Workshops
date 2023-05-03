@@ -9,7 +9,7 @@ Please find the link for workshop material below:
     - [Jupyter Notebook](https://github.com/UMD-GIS-Data-Lab/Python-Workshops/blob/main/1.%20Python%20Basics.ipynb)
 1. Data Wrangling with Python: 
     - [Slides](https://docs.google.com/presentation/d/1Pnd2yt9xcLDHAa79r9tm6WsksNeMUwPqIvrAdDsmx0w/edit?usp=sharing)
-    - [Jupyter Notebook](https://github.com/UMD-GIS-Data-Lab/Python-Workshops/blob/main/2.b%20Data%Wrangling%20with%20Pandas)
+    - [Jupyter Notebook](https://github.com/UMD-GIS-Data-Lab/Python-Workshops/blob/main/2.b%20Data%20Wrangling%20with%20Pandas.ipynb)
 
 This repository contains the codes, handouts, and slides for pedagogical purposes related to Python Programming language.
 
