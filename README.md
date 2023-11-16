@@ -26,5 +26,5 @@ This repository is created and maintained by [GIS and Data Labs](https://www.lib
 
 ### Happy Learning!
 
-Last Updated: 5/03/2023 by Abhimanyu Hans
+Last updated by Abhimanyu Hans
 
